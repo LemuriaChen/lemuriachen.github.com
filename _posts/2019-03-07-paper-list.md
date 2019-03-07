@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "paper list"
+title:  "Paper List of Deep Learning"
 date:   2019-03-07 07:20:54 +0800
 categories: deep learning
 ---
